@@ -13,8 +13,3 @@
     var_dump($mail);
     var_dump($age);
 ?>
-
-<!-- 
-http://localhost/snack-B/snack-B.php/?name=Lorenzo&mail=test@test.it&age=20 -->
-
-<!-- (strlen($name)>3)&&(str_contains($mail,"@"))&&(str_contains($mail,"."))&&(is_int($age)) -->
